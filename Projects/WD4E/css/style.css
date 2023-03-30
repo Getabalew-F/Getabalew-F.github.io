@@ -1,0 +1,30 @@
+nav{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    font-size: 155%;
+}
+body{
+    background-color: rgb(204, 195, 182);
+}
+header{
+    background-color: gray;
+    text-align: center;
+}
+h1 {
+    color: white;
+}
+h2{
+    color: black;
+    background-color: aqua;
+}
+details{
+    font-style: italic;
+    
+}
+summary {
+    font-style: normal;
+    color: black;
+}
+footer{
+    background-color: rgba(99, 92, 92, 0.733);
+}
